@@ -9,7 +9,7 @@
 //Input:            Integer,Integer
 //Output:           Integer
 //Date:             12/04/2022
-//Author:           Shruti Ashok Guldagad
+//Author:          Prerna Sanjay Bhise
 //
 ///////////////////////////////////////////////////////////
 
